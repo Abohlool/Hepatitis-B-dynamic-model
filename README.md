@@ -55,7 +55,6 @@ $$
 0 \le u_1(t), u_2(t) \le 1
 $$
 
-w1, w2, w3, w4 = 0.10, 0.6, 0.001, 0.9
 $w_1 = 0.1, \quad w_2 = 0.6, \quad w_3 = 0.001, \quad w_4 = 0.9$
 
 ![Controlled-Model](https://github.com/Abohlool/Hepatitis-B-dynamic-model/blob/main/plots/Controlled.png)
